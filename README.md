@@ -54,7 +54,7 @@ Responsible AI          Technical documentation
 
 ## Connect with me
 
-- [LinkedIn][(YOUR_LINKEDIN_LINK)](https://www.linkedin.com/in/alina-rakhimbaeva/)
-- [Resume][(YOUR_RESUME_LINK)](https://drive.google.com/file/d/1xTPLXAQOFXvp1UKvUzH11fvMp4lrfd1E/view?usp=sharing)
+- [LinkedIn](https://www.linkedin.com/in/alina-rakhimbaeva/)
+- [Resume](https://drive.google.com/file/d/1xTPLXAQOFXvp1UKvUzH11fvMp4lrfd1E/view?usp=sharing)
 
 Thanks for visiting my profile!
