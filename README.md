@@ -1,5 +1,9 @@
 # Hi, I’m Alina 👋
 
+<p align="center">
+  <img src="./profile-banner-standalone.svg" width="100%">
+</p>
+
 ### Data and AI enthusiast building practical technology for social impact
 
 I’m interested in using data, artificial intelligence, and responsible technology to understand real-world problems and create useful solutions.
@@ -17,7 +21,8 @@ I’m interested in using data, artificial intelligence, and responsible technol
 
 A multimodal AI prototype that transforms unstructured environmental reports and images into structured records for preliminary human review.
 
-**Highlights:**
+**Highlights:**![Uploading profile-banner-standalone.svg…]()
+
 
 - Schema-guided JSON extraction
 - Environmental issue and urgency classification
@@ -28,29 +33,30 @@ A multimodal AI prototype that transforms unstructured environmental reports and
 
 **Technologies:** Python · OpenAI API · Google Colab · JSON
 
-[View the notebook](https://colab.research.google.com/drive/1h3ky9RWIrerttjD5q8yNm6aZHXRMq6sa?usp=sharing) · [View the repository](https://github.com/alina-rakhimbaeva-2027/AI-Powered-Environmental-Issue-Detection-for-San-Jose) 
+[View the notebook](https://colab.research.google.com/drive/1h3ky9RWIrerttjD5q8yNm6aZHXRMq6sa?usp=sharing) · [View the repository][(YOUR_PROJECT_REPOSITORY_LINK)](https://github.com/alina-rakhimbaeva-2027/AI-Powered-Environmental-Issue-Detection-for-San-Jose)
 
 ## Skills and tools
 
 ```text
-Python                  AI API integration
+Python                 AI API integration
 Data analysis           Prompt engineering
-JSON and validation     Multimodal AI
+JSON and validation    Multimodal AI
 Google Colab            Git and GitHub
 Responsible AI          Technical documentation
 ```
 
-## What I’m learning
+## Currently learning
 
-- Building reliable AI workflows
-- Evaluating model outputs with labeled datasets
-- Designing human-in-the-loop systems
-- Creating dashboards and analytics tools
-- Developing portfolio-ready data projects
+- Reliable AI workflow design
+- Model-output evaluation
+- Human-in-the-loop systems
+- Data visualization and dashboards
+- Database integration
+- Portfolio-ready analytics projects
 
 ## Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/alina-rakhimbaeva/)
-- [Resume](https://drive.google.com/file/d/1xTPLXAQOFXvp1UKvUzH11fvMp4lrfd1E/view?usp=sharing)
+- [LinkedIn][(YOUR_LINKEDIN_LINK)](https://www.linkedin.com/in/alina-rakhimbaeva/)
+- [Resume][(YOUR_RESUME_LINK)](https://drive.google.com/file/d/1xTPLXAQOFXvp1UKvUzH11fvMp4lrfd1E/view?usp=sharing)
 
-Feel free to explore my repositories and connect with me.
+Thanks for visiting my profile!
