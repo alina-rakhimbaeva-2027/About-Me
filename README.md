@@ -1,5 +1,3 @@
-# Hi, I’m Alina 👋
-
 <p align="center">
   <img src="./profile-banner-standalone.svg" width="100%">
 </p>
