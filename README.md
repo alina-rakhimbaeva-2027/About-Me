@@ -19,8 +19,6 @@ I’m interested in using data, artificial intelligence, and responsible technol
 
 A multimodal AI prototype that transforms unstructured environmental reports and images into structured records for preliminary human review.
 
-**Highlights:**![Uploading profile-banner-standalone.svg…]()
-
 
 - Schema-guided JSON extraction
 - Environmental issue and urgency classification
