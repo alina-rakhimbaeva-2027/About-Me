@@ -1,5 +1,22 @@
 # Hi, I’m Alina 👋
 
+## GitHub Dashboard
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+## Featured Projects
+
+### AI Environmental Issue Detection
+Multimodal AI project for structuring environmental reports and analyzing images.
+
+[View project](YOUR_PROJECT_LINK)
+
+### FlexStep
+Short description of your FlexStep project.
+
+[View project](YOUR_FLEXSTEP_LINK)
+
+
 ### Data and AI enthusiast building practical technology for social impact
 
 I’m interested in using data, artificial intelligence, and responsible technology to understand real-world problems and create useful solutions.
