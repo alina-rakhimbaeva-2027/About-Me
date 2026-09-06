@@ -28,7 +28,7 @@ A multimodal AI prototype that transforms unstructured environmental reports and
 
 **Technologies:** Python · OpenAI API · Google Colab · JSON
 
-[View the notebook](https://colab.research.google.com/drive/1h3ky9RWIrerttjD5q8yNm6aZHXRMq6sa?usp=sharing) · [View the repository](YOUR_PROJECT_REPOSITORY_LINK)
+[View the notebook](https://colab.research.google.com/drive/1h3ky9RWIrerttjD5q8yNm6aZHXRMq6sa?usp=sharing) · [View the repository](https://github.com/alina-rakhimbaeva-2027/AI-Powered-Environmental-Issue-Detection-for-San-Jose) 
 
 ## Skills and tools
 
