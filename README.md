@@ -4,14 +4,14 @@
 
 ### Data and AI enthusiast building practical technology for social impact
 
-I’m interested in using data, artificial intelligence, and responsible technology to understand real-world problems and create useful solutions.
+I’m a Business Administration - Management Information Systems student at San José State University with a 3.75 GPA and a growing focus on data analytics, business systems, and responsible AI.
 
 ## About me
+Through academic projects and hands-on experience, I’ve worked with SQL, Python, Oracle databases, Microsoft Excel, Power BI, Tableau, CRM systems, data modeling, and financial analysis. I enjoy translating complex information into clear reports, visualizations, and actionable business insights.
 
-- Building projects with Python, AI APIs, data analysis, and structured outputs
-- Exploring multimodal AI, environmental analytics, and AI for social good
-- Focused on clear documentation, human oversight, and responsible use
-- Based in San Jose, California
+- Building data and AI projects with Python, SQL, and responsible technology
+- Designing databases, business workflows, dashboards, and actionable reports
+- Seeking a Summer 2027 internship in data analytics, business analytics, or business systems
 
 ## Featured project
 
