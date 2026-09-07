@@ -51,8 +51,8 @@ Responsible AI          Technical documentation
 - Portfolio-ready analytics projects
 
 ## Connect with me
-
+ 
 - [LinkedIn](https://www.linkedin.com/in/alina-rakhimbaeva/)
-- [Resume](https://drive.google.com/file/d/1xTPLXAQOFXvp1UKvUzH11fvMp4lrfd1E/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1UydoLefvnSRHMCrac6l0DIcQP3HbTEp_/view?usp=sharing)
 
 Thanks for visiting my profile!
