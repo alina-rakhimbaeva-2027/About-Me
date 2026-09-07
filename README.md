@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner-standalone.png" alt="Hi, I'm Alina — Data, AI, Analytics" width="100%">
+  <img src="./profile-banner-v2.png" alt="Hi, I'm Alina - Data, AI, Analytics" width="100%">
 </p>
 
 ### Data and AI enthusiast building practical technology for social impact
