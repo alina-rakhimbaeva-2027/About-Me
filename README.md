@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner-standalone.svg" width="100%">
+  <img src="./profile-banner-standalone.png" width="100%">
 </p>
 
 ### Data and AI enthusiast building practical technology for social impact
